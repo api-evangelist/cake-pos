@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CAKE POS is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://trycake.com/
+CAKE POS provides a cloud‑based point‑of‑sale (POS) platform designed for restaurants and retail businesses. It offers tools for order management, payment processing, inventory tracking, employee scheduling, and analytics, all accessible via web and mobile interfaces. The service integrates with popular payment gateways and third‑party services, enabling seamless operations for small to medium‑size enterprises seeking modern, scalable POS solutions.
+
+**Areas:** Company · POS · Retail · Restaurants · Cloud
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://trycake.com/)
+- [Documentation](https://trycake.com/)
+- [Pricing](https://trycake.com/pricing)
+- [Support](https://trycake.com/cake-support)
+- [Blog](https://trycake.com/blog)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/cake-pos/](https://apis.io/providers/cake-pos/).
